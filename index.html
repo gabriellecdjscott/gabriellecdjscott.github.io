@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>John Doe | Aspiring Software Engineer</title>
+    <title>Gabrielle Scott | Aspiring Software Engineer</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
     <header>
@@ -21,8 +22,8 @@
 
     <section id="hero">
         <div class="hero-content">
-            <h1>Hello, I'm John Doe</h1>
-            <p>Aspiring Software Engineer | Tech Enthusiast</p>
+            <h1>Hello, I'm Gabrielle Soctt</h1>
+            <p>Software Engineer | Tech Enthusiast</p>
             <a href="#about" class="btn">Learn More</a>
         </div>
     </section>
@@ -31,7 +32,7 @@
         <div class="container">
             <h2>About Me</h2>
             <div class="about-content">
-                <img src="images/profile.jpeg" alt="John Doe">
+                <img src="images/profile.jpg" alt="Gabrielle Scott">
                 <div>
                     <p>I'm a recent computer science graduate passionate about software development and artificial intelligence. I love building applications that solve real-world problems.</p>
                     <a href="assets/Gabrielle C.D Scott Resume copy.pdf" class="btn" target="_blank">Download Resume</a>
@@ -44,31 +45,62 @@
         <div class="container">
             <h2>Skills</h2>
             <div class="skills-grid">
-                <div class="skill">Python</div>
-                <div class="skill">JavaScript</div>
-                <div class="skill">HTML & CSS</div>
-                <div class="skill">React</div>
-                <div class="skill">Node.js</div>
-                <div class="skill">SQL</div>
-                <div class="skill">Git</div>
-                <div class="skill">Docker</div>
+                <div class="skill"><i class="fab fa-python"></i> Python</div>
+                <div class="skill"><i class="fab fa-js-square"></i> JavaScript</div>
+                <div class="skill"><i class="fab fa-html5"></i> HTML & CSS</div>
+                <div class="skill"><i class="fab fa-react"></i> React</div>
+                <div class="skill"><i class="fab fa-node"></i> Node.js</div>
+                <div class="skill"><i class="fas fa-database"></i> SQL</div>
+                <div class="skill"><i class="fab fa-git"></i> Git</div>
+                <div class="skill"><i class="fab fa-docker"></i> Docker</div>
             </div>
         </div>
     </section>
 
     <section id="projects">
         <div class="container">
-            <h2>Projects</h2>
-            <div class="projects-grid">
-                <div class="project">
-                    <h3>Project One</h3>
-                    <p>Description of the first project.</p>
-                </div>
-                <div class="project">
-                    <h3>Project Two</h3>
-                    <p>Description of the second project.</p>
-                </div>
-                <!-- Add more projects as needed -->
+            <h2>Projects I've Worked On</h2>
+            <div class="tab-container">
+                <button class="tab-button active" onclick="openProject(event, 'project1')">Central Machine Diagnostics</button>
+                <button class="tab-button" onclick="openProject(event, 'project2')">Clever School Teacher</button>
+                <button class="tab-button" onclick="openProject(event, 'project3')">Health Care Jamaica</button>
+                <button class="tab-button" onclick="openProject(event, 'project4')">Jamaica Sargassum Early Advisory System</button>
+                <button class="tab-button" onclick="openProject(event, 'project5')">Caribbean Knowledge</button>
+            </div>
+            <div id="project1" class="tab-content active">
+                <h3>Central Machine Diagnostics</h3>
+                <h4>Website Design & Building</h4>
+                <p>In 2023, Central Machine Diagnostics reached out to me to redesign their website and also suggest a solution for hosting and deploying the website. The hiring manager explained that their current website was outdated, not catered towards their branding and contained too much text. They also explained they would like to do updates to the website without needing a third party technical user.</p>
+                <p><strong>Main Troubles & Worries:</strong> One of the main problems of the initial deployment of the website was that it took too long and the developers were unresponsive during the project. I was able to reassure the client and establish trust in the deployment and creation of the website.</p>
+                <h4>Hand Off</h4>
+                <p>Until the completion of the project, a one-page 'Coming Soon' page was deployed on the website alerting users who would like to access the site of its status.</p>
+                <h4>Deliverables & Actions:</h4>
+                <ul>
+                    <li>Provided PDFs of Design via Figma</li>
+                    <li>Met with and interpreted client queries and wants</li>
+                    <li>Completed project in a timely manner to satisfy client</li>
+                    <li>Led and guided a team on Wordpress with Elementor processes</li>
+                </ul>
+            </div>
+            <div id="project2" class="tab-content">
+                <h3>Clever School Teacher</h3>
+                <h4>Project Description</h4>
+                <p>Description of the second project.</p>
+            </div>
+            <div id="project3" class="tab-content">
+                <h3>Health Care Jamaica</h3>
+                <h4>Project Description</h4>
+                <p>Description of the third project.</p>
+            </div>
+            <div id="project4" class="tab-content">
+                <h3>Jamaica Sargassum Early Advisory System</h3>
+                <h4>Project Description</h4>
+                <p>Description of the fourth project.</p>
+            </div>
+            <div id="project5" class="tab-content">
+                <h3>Caribbean Knowledge</h3>
+                <h4>Project Description</h4>
+                <p>Description of the fifth project.</p>
             </div>
         </div>
     </section>
