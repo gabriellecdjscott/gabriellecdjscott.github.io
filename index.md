@@ -8,6 +8,7 @@ title: Home
 # Business Analyst |
 
 ## Contact
+<img src="{{ site.logo }}" alt="Gabrielle Catherine Scott" style="width: 150px; height: 150px; border-radius: 50%; display: block; margin: 0 auto;">
 - **Email**: gabrielle.scott@mymona.uwi.edu | scottgabrielle49@gmail.com
 - **LinkedIn**: [linkedin.com/in/gabrielle-scott-a079ba18b](https://www.linkedin.com/in/gabrielle-scott-a079ba18b/)
 - **GitHub**: [github.com/gabriellecdjscott](https://github.com/gabriellecdjscott)
