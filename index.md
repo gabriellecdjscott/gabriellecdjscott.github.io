@@ -14,7 +14,7 @@ title: Home
 - **Phone**: 404-483-4166
 
 ## Career Summary
-Aspiring Software Engineer with a strong foundation in computer science and hands-on experience in artificial intelligence, software development, quality assurance, data analysis, data structures, and algorithms. Experienced in Agile Methodologies, Test Case Development, Data Analysis, User Story Creation, and CI/CD Process Optimization. U.S. Green Card holder authorized to work in the United States.
+Aspiring Software Engineer with a strong foundation in computer science and hands-on experience in artificial intelligence, software development, quality assurance, data analysis, data structures, and algorithms. Experienced in Agile Methodologies, Test Case Development, Data Analysis, User Story Creation, and CI/CD Process Optimization. 
 
 ## Work Experience
 ### Novant Health, Atlanta, United States (Remote)
