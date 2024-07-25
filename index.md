@@ -12,7 +12,7 @@ title: Home
 - **LinkedIn**: [linkedin.com/in/gabrielle-scott-a079ba18b](https://www.linkedin.com/in/gabrielle-scott-a079ba18b/)
 - **GitHub**: [github.com/gabriellecdjscott](https://github.com/gabriellecdjscott)
 - **Phone**: 404-483-4166
-- **Resume**: [https://drive.google.com/file/d/1V8Q0_wWBE7XZlZkpgj9gesvDg-g-x6K-/view?usp=sharing](https://drive.google.com/file/d/1V8Q0_wWBE7XZlZkpgj9gesvDg-g-x6K-/view?usp=sharing)
+- **Resume**: [https://drive.google.com/file/d/1xvCRkZkLGJLOn682l0ZioVpAuV6BfBnU/view?usp=sharing](https://drive.google.com/file/d/1xvCRkZkLGJLOn682l0ZioVpAuV6BfBnU/view?usp=sharing)
 
 ## Career Summary
 Aspiring Software Engineer with a strong foundation in computer science and hands-on experience in artificial intelligence, software development, quality assurance, data analysis, data structures, and algorithms. Experienced in Agile Methodologies, Test Case Development, Data Analysis, User Story Creation, and CI/CD Process Optimization. 
