@@ -38,8 +38,36 @@ Aspiring Software Engineer with a strong foundation in computer science and hand
 - Relevant Coursework: Discrete Mathematics, Analysis of Algorithms, Database Management, Object-Oriented Design, Artificial Intelligence, Quantum Computing, Capstone.
 
 ## Skills
-- **Programming Languages**: C, C++, C#, Python, Flask, React Native, TensorFlow, Java, PHP, JavaScript, SQL, CSS, Vue.js, TypeScript, HTML5.
-- **Technologies**: OpenAI GPT models, PyTorch, LangChain, Oracle, Azure DevOps, Node.js, Postman, PostgreSQL, MySQL, Git, Google Colab, MS SQL Server.
+1. **Programming Languages**:
+   - ![C](https://via.placeholder.com/20) C
+   - ![C++](https://via.placeholder.com/20) C++
+   - ![C#](https://via.placeholder.com/20) C#
+   - ![Python](https://via.placeholder.com/20) Python
+   - ![Flask](https://via.placeholder.com/20) Flask
+   - ![React Native](https://via.placeholder.com/20) React Native
+   - ![TensorFlow](https://via.placeholder.com/20) TensorFlow
+   - ![Java](https://via.placeholder.com/20) Java
+   - ![PHP](https://via.placeholder.com/20) PHP
+   - ![JavaScript](https://via.placeholder.com/20) JavaScript
+   - ![SQL](https://via.placeholder.com/20) SQL
+   - ![CSS](https://via.placeholder.com/20) CSS
+   - ![Vue.js](https://via.placeholder.com/20) Vue.js
+   - ![TypeScript](https://via.placeholder.com/20) TypeScript
+   - ![HTML5](https://via.placeholder.com/20) HTML5
+
+2. **Technologies**:
+   - ![OpenAI GPT models](https://via.placeholder.com/20) OpenAI GPT models
+   - ![PyTorch](https://via.placeholder.com/20) PyTorch
+   - ![LangChain](https://via.placeholder.com/20) LangChain
+   - ![Oracle](https://via.placeholder.com/20) Oracle
+   - ![Azure DevOps](https://via.placeholder.com/20) Azure DevOps
+   - ![Node.js](https://via.placeholder.com/20) Node.js
+   - ![Postman](https://via.placeholder.com/20) Postman
+   - ![PostgreSQL](https://via.placeholder.com/20) PostgreSQL
+   - ![MySQL](https://via.placeholder.com/20) MySQL
+   - ![Git](https://via.placeholder.com/20) Git
+   - ![Google Colab](https://via.placeholder.com/20) Google Colab
+   - ![MS SQL Server](https://via.placeholder.com/20) MS SQL Server
 
 ## Certifications
 (List your certifications here)
@@ -47,13 +75,14 @@ Aspiring Software Engineer with a strong foundation in computer science and hand
 ## Projects
 
 ### [Aether Insights Flight Optimizer](https://aetherinsights.weebly.com)
-Developed an Aviation AI Fuel Emission Predictor & Weather Advisories Python-Flask Web Application. This project aimed to provide airlines with tools to optimize fuel consumption based on predictive analytics and real-time weather data. 
+Developed an Aviation AI Fuel Emission Predictor & Weather Advisories Python-Flask Web Application. This project aimed to provide airlines with tools to optimize fuel consumption based on predictive analytics and real-time weather data.
 
 - **Objective**: Reduce fuel consumption and carbon emissions for airlines.
 - **Features**:
-  - **Fuel Emission Predictor**: Utilizes machine learning models to predict fuel usage based on flight data.
-  - **Weather Advisories**: Integrates with weather APIs to provide real-time weather updates affecting flight paths.
+  - **Fuel Emission Predictor**: Developed a Python chatbot for calculating fuel emissions based on weather conditions, achieving a margin of error of only 2%, enhancing operational efficiency for airline operators.
+  - **Weather Advisories**: Implemented a recommendation system for predicting 24-hour weather forecasts and providing SIGMET and TAF advisories, improving flight safety and planning.
   - **User Interface**: Built using Flask to provide a web-based interface for users to input flight data and receive recommendations.
+- **Tech Stack**: Python, Flask, OpenAI GPT models, TensorFlow.
 - **Impact**: Achieved a 15% reduction in fuel consumption for tested routes, highlighting significant cost savings and environmental benefits.
 
 ### [Hotel Reservation Booking Database Management System](https://github.com/gabriellecdjscott/HotelReservationDBMS)
@@ -61,10 +90,12 @@ Developed a comprehensive web application for managing hotel reservations, incor
 
 - **Objective**: Streamline hotel reservation processes and improve customer service efficiency.
 - **Features**:
+  - **Core Logic Services**: Developed 75% of the business core logic services, including view, add, edit, and archive booking functionalities.
+  - **Agile Delivery**: Delivered the project in an agile manner over a 5-day period, improving hotel operators' booking management efficiency.
   - **Reservation Management**: Allows users to book, modify, and cancel reservations.
   - **Customer Database**: Stores customer information securely, enabling personalized service.
   - **Room Availability**: Real-time updates on room availability and automated booking confirmations.
-- **Technologies Used**: Python, Flask, PostgreSQL for the backend; HTML, CSS, JavaScript for the frontend.
+- **Tech Stack**: JavaScript, HTML5, CSS, PHP, SQL.
 - **Impact**: Improved booking efficiency by 25%, reducing manual errors and enhancing the customer experience.
 
 ### [Qubit Behaviour](https://github.com/gabriellecdjscott/QubitBehaviour.git)
@@ -72,10 +103,10 @@ Developed an algorithm to model the relationship between two quantum qubits, con
 
 - **Objective**: Understand and predict the behavior of qubits in a quantum computing environment.
 - **Features**:
-  - **Quantum Algorithm**: Implements a quantum algorithm to simulate qubit interactions.
+  - **Quantum Algorithm**: Developed an algorithm to model the relationship between two quantum qubits using gates, including Hadamard.
   - **Data Visualization**: Provides visual representations of qubit states and their evolution over time.
   - **Research Contribution**: Offers insights into qubit entanglement and superposition, aiding further research in quantum computing.
-- **Technologies Used**: Python, TensorFlow, Qiskit (a quantum computing framework).
+- **Tech Stack**: Python, TensorFlow, Qiskit (a quantum computing framework).
 - **Impact**: Enhanced the understanding of qubit behavior, paving the way for more efficient quantum algorithms and applications.
 
 ## Contact
