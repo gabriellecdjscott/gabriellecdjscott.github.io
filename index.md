@@ -38,37 +38,8 @@ Aspiring Software Engineer with a strong foundation in computer science and hand
 - Relevant Coursework: Discrete Mathematics, Analysis of Algorithms, Database Management, Object-Oriented Design, Artificial Intelligence, Quantum Computing, Capstone.
 
 ## Skills
-1. **Programming Languages**:
-   - ![C](https://via.placeholder.com/20) C
-   - ![C++](https://via.placeholder.com/20) C++
-   - ![C#](https://via.placeholder.com/20) C#
-   - ![Python](https://via.placeholder.com/20) Python
-   - ![Flask](https://via.placeholder.com/20) Flask
-   - ![React Native](https://via.placeholder.com/20) React Native
-   - ![TensorFlow](https://via.placeholder.com/20) TensorFlow
-   - ![Java](https://via.placeholder.com/20) Java
-   - ![PHP](https://via.placeholder.com/20) PHP
-   - ![JavaScript](https://via.placeholder.com/20) JavaScript
-   - ![SQL](https://via.placeholder.com/20) SQL
-   - ![CSS](https://via.placeholder.com/20) CSS
-   - ![Vue.js](https://via.placeholder.com/20) Vue.js
-   - ![TypeScript](https://via.placeholder.com/20) TypeScript
-   - ![HTML5](https://via.placeholder.com/20) HTML5
-
-2. **Technologies**:
-   - ![OpenAI GPT models](https://via.placeholder.com/20) OpenAI GPT models
-   - ![PyTorch](https://via.placeholder.com/20) PyTorch
-   - ![LangChain](https://via.placeholder.com/20) LangChain
-   - ![Oracle](https://via.placeholder.com/20) Oracle
-   - ![Azure DevOps](https://via.placeholder.com/20) Azure DevOps
-   - ![Node.js](https://via.placeholder.com/20) Node.js
-   - ![Postman](https://via.placeholder.com/20) Postman
-   - ![PostgreSQL](https://via.placeholder.com/20) PostgreSQL
-   - ![MySQL](https://via.placeholder.com/20) MySQL
-   - ![Git](https://via.placeholder.com/20) Git
-   - ![Google Colab](https://via.placeholder.com/20) Google Colab
-   - ![MS SQL Server](https://via.placeholder.com/20) MS SQL Server
-
+- **Programming Languages**: C, C++, C#, Python, Flask, React Native, TensorFlow, Java, PHP, JavaScript, SQL, CSS, Vue.js, TypeScript, HTML5.
+- **Technologies**: OpenAI GPT models, PyTorch, LangChain, Oracle, Azure DevOps, Node.js, Postman, PostgreSQL, MySQL, Git, Google Colab, MS SQL Server.
 ## Certifications
 (List your certifications here)
 
