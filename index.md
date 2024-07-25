@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Home
@@ -46,21 +45,16 @@ Aspiring Software Engineer with a strong foundation in computer science and hand
 (List your certifications here)
 
 ## Projects
-### Aether Insights Flight Optimizer
+### [Aether Insights Flight Optimizer](https://aetherinsights.weebly.com)
 - Developed an Aviation AI Fuel Emission Predictor & Weather Advisories Python-Flask Web Application.
-- [aetherinsights.weebly.com](https://aetherinsights.weebly.com)
 
-### Hotel Reservation Booking Database Management System
+### [Hotel Reservation Booking Database Management System](https://github.com/gabriellecdjscott/HotelReservationDBMS)
 - Developed a Hotel Reservation booking Web Application with a Relational Database Management System, highlighting software development skills and business process optimization expertise.
-- [github.com/gabriellecdjscott/HotelReservationDBMS](https://github.com/gabriellecdjscott/HotelReservationDBMS)
 
-### Qubit Behaviour
+### [Qubit Behaviour](https://github.com/gabriellecdjscott/QubitBehaviour.git)
 - Developed an algorithm to model the relationship between two quantum qubits.
-- [github.com/gabriellecdjscott/QubitBehaviour.git](https://github.com/gabriellecdjscott/QubitBehaviour.git)
 
 ## Contact
 - **Email**: gabrielle.scott@mymona.uwi.edu
 - **GitHub**: [github.com/gabriellecdjscott](https://github.com/gabriellecdjscott)
 - **LinkedIn**: [linkedin.com/in/gabrielle-scott-a079ba18b](https://www.linkedin.com/in/gabrielle-scott-a079ba18b/)
-```
-
