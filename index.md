@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Software Engineer | 
-# Software Quality Assurance Analyst | 
+# Quality Assurance Analyst | 
 # Business Analyst |
 
 ## Contact
