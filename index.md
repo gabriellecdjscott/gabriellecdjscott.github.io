@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Software Engineer | Software Quality Assurance Ananlyst/Engineer | Business Analyst
+# Software Engineer | Software Quality Assurance Ananlyst | Business Analyst
 
 ## Contact
 - **Email**: gabrielle.scott@mymona.uwi.edu | scottgabrielle49@gmail.com
