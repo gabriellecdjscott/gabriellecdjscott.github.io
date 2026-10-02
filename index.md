@@ -4,24 +4,32 @@ title: Home
 ---
 
 # Software Engineer | 
+# Product Manager |
 # Quality Assurance Analyst | 
-# Business Analyst |
 
 ## Contact
-- **Email**: gabrielle.scott@mymona.uwi.edu | scottgabrielle49@gmail.com
+- **Email**: scottgabrielle49@gmail.com
 - **LinkedIn**: [linkedin.com/in/gabrielle-scott-a079ba18b](https://www.linkedin.com/in/gabrielle-scott-a079ba18b/)
 - **GitHub**: [github.com/gabriellecdjscott](https://github.com/gabriellecdjscott)
 - **Phone**: 404-483-4166
-- **Resume**: [https://drive.google.com/file/d/1NmA7mlMe_vHtuqcQvh4guQmZ7w1mtPvq/view?usp=sharing](https://drive.google.com/file/d/1NmA7mlMe_vHtuqcQvh4guQmZ7w1mtPvq/view?usp=sharing)
+- **Resume**: [https://drive.google.com/file/d/1kNJQV-yU3szeCMWeF91WdHwUIto1l67w/view?usp=sharing](https://drive.google.com/file/d/1kNJQV-yU3szeCMWeF91WdHwUIto1l67w/view?usp=sharing)
 
 ## Career Summary
-Aspiring Software Engineer with a strong foundation in computer science and hands-on experience in artificial intelligence, software development, quality assurance, data analysis, data structures, and algorithms. Experienced in Agile Methodologies, Test Case Development, Data Analysis, User Story Creation, and CI/CD Process Optimization. 
+Software Engineer and Aspiring Product Manager blending technical depth with strategic storytelling, architecting and developing data pipelines, production ML systems, and cloud platforms (Azure, GCP). Proven track record optimizing CI/CD processes and delivering AI-enabled applications in healthcare and fintech; aligning design data and delivery to turn user insights into measurable business growth.  Experienced in Agile Methodologies, Test Case Development, Data Analysis, User Story Creation, and CI/CD Process Optimization. 
 
 ## Work Experience
-### Novant Health, Atlanta, United States (Remote)
-**Digital Products and Services Intern** (June 2023 - Dec 2023)
+### Google , Kirkland,WA
+**Software Engineer** (February 2025 - May 2026)
+- Designed cloud-native solutions for GCP achieving 22% improvement in system efficiency for enterprise clients.
+-  Implemented governance protocols for CI/CD pipelines reducing production incidents by preventing unauthorized changes lead to 81% reduction in pipeline breakages.
+-  Optimized backend services reducing response times by 28% and improving developer experience.
+-  Implemented a workflow container to measure progress on a project linking to all item statuses and the actual implementation pr’s connected to the features, bugs this unblocked and reduced ambiguity by 54% on the project initiative.
+- **Tech Stack**: GCP, JavaScript, Java, React Native, TypeScript, Kotlin, Go
+
+### Novant Health, Atlanta,Georgia (Remote)
+**Digital Products and Services Intern** (June 2023 - December 2023)
 - Developed and executed 40% of test cases for the MyNovant and MyChart applications, contributing to a successful launch with zero critical bugs.
-- Created and prioritized 50% of user stories using gherkin syntax, improving the efficiency of the Sprint Cycle Q4.
+- Created and prioritized 40% of user stories using gherkin syntax, improving the efficiency of the Sprint Cycle Q4.
 - Conducted software testing and integrated Pay My Bill and Healthy Headlines features, enhancing patient communication tools.
 - Relayed deficiencies to appropriate team members to resolve prior to posting logs, ensuring accurate patient billing and scheduling.
 - Collaborated with other departments to problem-solve and identify best practices and charge capture workflows impacting all patient care departments.
@@ -29,22 +37,25 @@ Aspiring Software Engineer with a strong foundation in computer science and hand
 
 ### Jamaica Money Market Brokers (Remote)
 **Software Quality Assurance Analyst Consultant** (October 2023 - May 2024)
-- Designed and implemented ETL pipelines, boosting data integration efficiency by 30%.
-- Optimized SQL queries, reducing system response times by 20% and enhancing user experience.
-- Authored detailed test cases, ensuring high data quality and reliability across business applications.
-- Streamlined CI/CD processes by managing deployments in Jenkins, improving deployment consistency.
+- Developed and implemented ETL pipelines, significantly improving data integration and workflow efficiency by 34%.
+- Optimized SQL queries and data models; improved system response times by 27% for banking platform serving institutional clients, directly impacting platform performance.
+- Modernized CI/CD pipeline using Jenkins; established automated testing gates and deployment automation, reducing deployment-related issues by 64% and improving system reliability.
+
 
 ## Education
 **University of the West Indies (Mona)**
 - Bachelors of Science in Computer Science (Upper Second Class Honors)
-- GPA: 3.3/4.0
+- GPA: 3.2/4.0
 - Relevant Coursework: Discrete Mathematics, Analysis of Algorithms, Database Management, Object-Oriented Design, Artificial Intelligence, Quantum Computing, Capstone.
 
 ## Skills
-- **Programming Languages**: C, C++, C#, Python, Flask, React Native, TensorFlow, Java, PHP, JavaScript, SQL, CSS, Vue.js, TypeScript, HTML5.
-- **Technologies**: OpenAI GPT models, PyTorch, LangChain, Oracle, Azure DevOps, Node.js, Postman, PostgreSQL, MySQL, Git, Google Colab, MS SQL Server.
-## Certifications
-(List your certifications here)
+- **Programming Languages**: C, C#, C++, CSS, HTML, Java, JavaScript, Kotlin, Python, SQL, Swift, TypeScript, Go
+- **Frameworks**: .NET, React, HTML, CSS, Langchain, GraphQL, Pandas, Numpy
+- **Cloud & AI/ML Services**: Microsoft Azure, Google Cloud Platform (GCP), Claude, Gemini, ChatGPT models, Pytorch,
+- **Tools**: Git, Visual Studio, VS Code, Docker, Azure DevOps, Terraform, Jenkins, Jira, Figma, Trello, Power BI, Kubernetes
+- **Soft Skills**: Critical thinking, Analytical Problem Solving, Strategic Execution, User Empathy, Ownership Mindset, Stakeholder communication, Cross-functional team collaboration
+- **Product**: Product strategy, UX design, Go-To-Market execution, Roadmap Planning, Agile/Scrum, Risk Management
+- [IBM Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/XZRRMJHQCC9R)
 
 ## Projects
 
@@ -84,6 +95,6 @@ Developed an algorithm to model the relationship between two quantum qubits, con
 - **Impact**: Enhanced the understanding of qubit behavior, paving the way for more efficient quantum algorithms and applications.
 
 ## Contact
-- **Email**: gabrielle.scott@mymona.uwi.edu
+- **Email**: scottgabrielle49@gmail.com
 - **GitHub**: [github.com/gabriellecdjscott](https://github.com/gabriellecdjscott)
 - **LinkedIn**: [linkedin.com/in/gabrielle-scott-a079ba18b](https://www.linkedin.com/in/gabrielle-scott-a079ba18b/)
